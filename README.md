@@ -1,7 +1,7 @@
 # CST338_WK06D01_Command
 The goal here is to use the Command pattern to learn about inheritance. This affords us an opportunity to see inheritance mechanisms working in a realistic, if fanciful, project.
 
-<b>CLO1: Object Oriented Software Design
+<b><u>CLO1: Object Oriented Software Design </u>
 
 A.    Application of Inheritance and Interfaces
 
@@ -9,7 +9,7 @@ B.   Analysis and application of abstraction
 
 F.    Develop a software system using design patterns.
 
-CLO2 Knowledge of the Java Language
+<u>CLO2 Knowledge of the Java Language </u>
 
 A.    Comprehend, Develop, and Evaluate a Java program
 
